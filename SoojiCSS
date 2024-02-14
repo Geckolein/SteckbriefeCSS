@@ -1,0 +1,72 @@
+.bsbackground {
+    width: 600px;
+    background-color: #FFE566;
+}
+
+.bsname {
+    font-family: 'Allura', cursive;
+    font-size: 120px;
+    text-align: right;
+    text-shadow: 4px 4px 0px #FFF2B2;
+    color: #4b441f;
+    padding: 20px 40px 0px 0px;
+    font-weight: bold;
+    letter-spacing: -5px;
+}
+
+.bsgif {
+    background-color: #FFF2B2;
+    padding: 1px;
+    width: 75px;
+    height: 75px;
+    border: 3px solid #4b441f;
+    margin: 0px 5px 0px 5px;
+    object-fit: cover;
+}
+
+.bstext {
+    background-color: #FFF2B2;
+    color: #333333;
+    text-align: justify;
+    padding: 0px 10px 10px 10px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.bstext i {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15px;
+    background-color: #333333;
+    color: #FFF2B2;
+    padding: 0px 3px 0px 3px;
+    font-style: normal;
+}
+
+.bstext b {
+    text-transform: uppercase;
+    padding: 0px 0px 0px 3px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 17px;
+}
+
+.bssidebarleft {
+    background: rgb(255,229,102);
+    background: linear-gradient(0deg, rgba(255,229,102,1) 0%, rgba(255,242,178,1) 50%, rgba(255,229,102,1) 100%);
+    padding-left: 30px;
+}
+
+.bssidebarright {
+    background: rgb(255,229,102);
+    background: linear-gradient(0deg, rgba(255,229,102,1) 0%, rgba(255,242,178,1) 50%, rgba(255,229,102,1) 100%);
+    padding-right: 30px;
+}
+
+.bsquote {
+    background-color: #FFF2B2;
+    font-family: 'Roboto Condensed';
+    font-size: 14px;
+    color: #4b441f;
+    padding: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 0px 30px 0px 30px;
+}
